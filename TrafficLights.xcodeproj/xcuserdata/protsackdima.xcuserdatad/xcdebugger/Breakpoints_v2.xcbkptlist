@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0E87765D-8ECC-4A47-BF54-C69A1D6C0062"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13E62E0E-B404-489E-BCFB-9C59C9C8A4B1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TrafficLights/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "13E62E0E-B404-489E-BCFB-9C59C9C8A4B1 - b50e9b55fa7542fe"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrafficLights.ViewController.orangeLigt.getter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "TrafficLights"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/protsackdima/Desktop/Playground/SecondModule/1.FirstLesson/TrafficLights/TrafficLights/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "13E62E0E-B404-489E-BCFB-9C59C9C8A4B1 - 9f5196ece2837af2"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrafficLights.ViewController.orangeLigt.setter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "TrafficLights"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/protsackdima/Desktop/Playground/SecondModule/1.FirstLesson/TrafficLights/TrafficLights/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "13E62E0E-B404-489E-BCFB-9C59C9C8A4B1 - 29fbeeaf3c6ad4e3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrafficLights.ViewController.orangeLigt.modify : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "TrafficLights"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/protsackdima/Desktop/Playground/SecondModule/1.FirstLesson/TrafficLights/TrafficLights/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "13E62E0E-B404-489E-BCFB-9C59C9C8A4B1 - 51dee8d9107009b4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrafficLights.ViewController.orangeLigt.modify : Swift.Optional&lt;__C.UIView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TrafficLights"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/protsackdima/Desktop/Playground/SecondModule/1.FirstLesson/TrafficLights/TrafficLights/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "13E62E0E-B404-489E-BCFB-9C59C9C8A4B1 - 84352d4e66f86fe5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrafficLights.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TrafficLights.ViewController"
+                  moduleName = "TrafficLights"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/protsackdima/Desktop/Playground/SecondModule/1.FirstLesson/TrafficLights/TrafficLights/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "13E62E0E-B404-489E-BCFB-9C59C9C8A4B1 - 11d2fa08826516a2"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrafficLights.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TrafficLights.ViewController&gt;"
+                  moduleName = "TrafficLights"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/protsackdima/Desktop/Playground/SecondModule/1.FirstLesson/TrafficLights/TrafficLights/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
